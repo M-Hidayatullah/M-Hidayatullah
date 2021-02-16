@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://khushboogoel01.github.io)
+
 <h1 align="center"><strong>Hi 👋, I'm M-Hidayatullah</strong></h1>
 <h3 align="center">CODING | SHARING |</h3>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="M-Hidayatullah" height="30" width="40" /></a> -->
+<!-- <a href="https://www.facebook.com/profile.php?id=100030133832473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="M-Hidayatullah" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/muhammad-hidayatullah-0349241b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="M-Hidayatullah" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadhidayatullah___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="M-Hidayatullah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/muhammad hidayatullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
