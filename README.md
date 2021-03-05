@@ -1,7 +1,7 @@
 - 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-hidayatullahblk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hidayatullahblk@gmail.com)](mailto:hidayatullahblk@gmail.com) 
 -- 👨‍💻 You can also check out my portfolio at 
-[![Github Badge](https://img.shields.io/badge/-M-Hidayatullah-grey?style=flat&logo=github&logoColor=white&link=https://github.com/M-Hidayatullah/)](https://www.github.com/M-Hidayatullah/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://M-Hidayatullah.github.io//)](https://M-Hidayatullah.github.io//) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://M-Hidayatullah.github.io//)](https://M-Hidayatullah.github.io//) 
 
 <h1 align="center"><strong>Hi 👋</strong></h1>
 <h2 align="center">| i'm Developers | Desaigner 💖|</h2>
