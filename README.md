@@ -22,16 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&show_icons=true&locale=en" alt="M-Hidayatullah" /></p>
 
 
-<div align="center">
 
-<a href="https://github.com/jstrieb/github-stats">
-  
-![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
-</a>
-
-</div>
 
 
 
