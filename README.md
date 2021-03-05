@@ -1,13 +1,11 @@
 
 <h1 align="center"><strong>Hi 👋</strong></h1>
-<h2 align="center">| i'm Developers | Desaigner |</h2>
+<h2 align="center">| i'm Developers | Desaigner 💖|</h2>
 
 
 - 👨‍💻 You can also check out my portfolio at [https://M-Hidayatullah.github.io/](https://M-Hidayatullah.github.io/) 
 
 - 📫 How to reach me **hidayatullahblk@gmail.com**
-
-- ⚡ Fun fact **I am can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
