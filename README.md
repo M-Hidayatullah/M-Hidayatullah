@@ -1,9 +1,9 @@
 
 <h1 align="center"><strong>Hi 👋, I'm M-Hidayatullah</strong></h1>
-<h3 align="center">| CODING | SHARING | </h3>
+<h3 align="center">| i'm Developers | Desaigner </h3>
 
 
-- 👨‍💻 You can also check out my portfolio at [https://M-Hidayatullah.github.io/](https://M-Hidayatullah.github.io/) ( sedang error)
+- 👨‍💻 You can also check out my portfolio at [https://M-Hidayatullah.github.io/](https://M-Hidayatullah.github.io/) 
 
 - 📫 How to reach me **hidayatullahblk@gmail.com**
 
