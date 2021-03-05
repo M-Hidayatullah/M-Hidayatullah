@@ -22,6 +22,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&show_icons=true&locale=en" alt="M-Hidayatullah" /></p>
 
 
+<div align="center">
+
+<a href="https://github.com/M-Hidayatullah/github-stats">
+  
+![](https://raw.githubusercontent.com/M-Hidayatullah/github-stats/master/generated/overview.svg)
+![](https://github.com/M-Hidayatullah/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
+
+
 
 
 
