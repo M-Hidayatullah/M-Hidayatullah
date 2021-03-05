@@ -17,9 +17,9 @@
 <a href="https://www.youtu.be/aXesKYzWHus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="M-Hidayatullah" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Hidayatullah&show_icons=true&locale=en&layout=compact" alt="M-Hidayatullah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&show_icons=true&locale=en" alt="M-Hidayatullah" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&count_private=true&show_icons=true&theme=cobalt" />
+</p>
 
 
 
