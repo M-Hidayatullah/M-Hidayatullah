@@ -1,6 +1,6 @@
 
-<h1 align="center"><strong>Hi 👋, I'm M-Hidayatullah</strong></h1>
-<h3 align="center">| i'm Developers | Desaigner </h3>
+<h1 align="center"><strong>Hi 👋</strong></h1>
+<h2 align="center">| i'm Developers | Desaigner |</h2>
 
 
 - 👨‍💻 You can also check out my portfolio at [https://M-Hidayatullah.github.io/](https://M-Hidayatullah.github.io/) 
