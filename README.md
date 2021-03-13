@@ -2,8 +2,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://M-Hidayatullah.github.io//)](https://M-Hidayatullah.github.io//) 
 
 
-<h1 align="center">👋</h1>
-
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
