@@ -1,4 +1,4 @@
-## Hey 👋
+## Hello, I'm Muhammad Hidayatullah! 👋
 [<img alt="Gmail" src="https://img.shields.io/badge/hidayatullahblkgmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 ### Connect with me:
