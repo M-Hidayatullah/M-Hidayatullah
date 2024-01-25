@@ -1,7 +1,7 @@
 ## Hello, I'm Muhammad Hidayatullah! 👋
 
 - 🔭 I’m currently working on several web project
-- 🌱 I’m currently learning about Backend Engineer, and AI / Machine learning
+- 🌱 I’m currently learning about AI / Machine learning
 - ⚡ Fun fact: Iam a fast learner
 
 ### Connect with me:
