@@ -1,6 +1,12 @@
 ## Hello, I'm Muhammad Hidayatullah! 👋
 
 
+### Connect with me:
+
+[<img align="left" alt="nicosiput | Instagram" width="22px" src="https://cdnlogo.com/logos/i/32/instagram-icon.svg" />][instagram]
+
+<br />
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=M-Hidayatullah alt=M-Hidayatullah /> </p>
 
@@ -10,5 +16,8 @@
 
 
 [![M.Hidayatullah github stats](https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+[instagram]: https://instagram.com/dayattdev
+
 
 
