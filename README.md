@@ -57,8 +57,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Hidayatullah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Hidayatullah&theme=github_dark)
 
-![M-Hidayatullah's github stats](https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&show_icons=true&theme=github_dark)
+![M-Hidayatullah's github stats](https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&show_icons=true&include_all_commits=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Hidayatullah&theme=tokyonight_duo" alt="mystreak"/>
+
+
 
 [![Hidayatullah GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Hidayatullah&theme=react-dark)](M-Hidayatullah)
 
