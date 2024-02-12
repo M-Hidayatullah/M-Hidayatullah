@@ -70,8 +70,6 @@
 [![M-Hidayatullah's github stats](https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/M-Hidayatullah)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Hidayatullah&theme=tokyonight_duo" alt="mystreak"/>
 
-
-
 [![Hidayatullah GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Hidayatullah&theme=react-dark)](M-Hidayatullah)
 
 ## <img src="https://media2.giphy.com/media/l0Exj6t3iK0Xzv00E/giphy.gif?cid=ecf05e47lzlepi3rx68kh0wwd8u0r36oxlb3cncofw1pc734&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> GitHub Trophies
@@ -79,6 +77,7 @@
 
 ###  <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9mfutbunecqfa8a80smg6lw7ppnc459ozuo2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="GIF" width="70"/> Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 Credit: [M-Hidayatullah](https://github.com/M-Hidayatullah)
 
