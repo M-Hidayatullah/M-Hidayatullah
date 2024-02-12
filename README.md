@@ -30,24 +30,32 @@
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=M-Hidayatullah alt=M-Hidayatullah /> </p>
 
-### Languages
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+### Languages and Tools
 
-### Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logoColor=ffffff&style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?logoColor=ffffff&style=flat&logo=typescript)\
+![React](https://img.shields.io/badge/-React-%2320232A?logoColor=61DAFB&style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-%234FC08D?logoColor=ffffff&style=flat&logo=vue.js)
+![Laravel](https://img.shields.io/badge/-Laravel-%23DC382D?style=flat&logo=laravel&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4?logoColor=ffffff&style=flat&logo=php)
+![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)\
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%234169E1?style=flat&logo=bootstrap&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat&logo=redis&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
@@ -59,7 +67,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Hidayatullah&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-Hidayatullah&theme=github_dark)
 
-![M-Hidayatullah's github stats](https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&show_icons=true&include_all_commits=true&theme=github_dark)
+[![M-Hidayatullah's github stats](https://github-readme-stats.vercel.app/api?username=M-Hidayatullah&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/M-Hidayatullah)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Hidayatullah&theme=tokyonight_duo" alt="mystreak"/>
 
 
@@ -71,6 +79,10 @@
 
 ###  <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9mfutbunecqfa8a80smg6lw7ppnc459ozuo2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="GIF" width="70"/> Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+Credit: [M-Hidayatullah](https://github.com/M-Hidayatullah)
+
+Last Edited on: 13/02/2024
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h5 align="center">Made With ❤️ by Me </h5>
